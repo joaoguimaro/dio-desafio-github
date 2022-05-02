@@ -1,0 +1,13 @@
+	- git init: inicia um repositório;
+	- git status: mostra o status dos commits;
+	- git add: adicionar à área de Staged do Git;
+	- git commit -m: adicionar comentário após enviar o arquivo para o Git;
+	- git config --global user.name "exemplo": configurar o username
+	- git config --global --unset user.name: reconfigurar o username
+	- git config --global --unset user.email "exemplo"
+	- git config --global --unset user.email: reconfigurar o email
+	- git remote add origin "link https": adiciona um repositório local para um repositório remoto (git para github)
+	- git remote -v: lista de repositórios remotos cadastrados
+	- git push origin master: empurra o repositório do git para um repositório do GitHub
+	- git pull origin master: puxa o arquivo atual do guthub para o git caso haja conflito de versões
+	- git clone "link https": clona um repositório do github para o git da sua máquina
