@@ -1,0 +1,15 @@
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.exe
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.deps.json
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.runtimeconfig.json
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.pdb
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.csproj.AssemblyReference.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\refint\DigitalInnovationOne.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.pdb
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.genruntimeconfig.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Programa1\DigitalInnovationOne\obj\Debug\net6.0\ref\DigitalInnovationOne.dll

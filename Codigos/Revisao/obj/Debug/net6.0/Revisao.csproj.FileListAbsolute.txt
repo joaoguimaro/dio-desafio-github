@@ -1,0 +1,15 @@
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\refint\Revisao.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\Revisao\obj\Debug\net6.0\ref\Revisao.dll

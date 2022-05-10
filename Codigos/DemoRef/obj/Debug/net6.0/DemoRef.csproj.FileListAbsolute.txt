@@ -1,0 +1,15 @@
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\bin\Debug\net6.0\DemoRef.exe
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\bin\Debug\net6.0\DemoRef.deps.json
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\bin\Debug\net6.0\DemoRef.runtimeconfig.json
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\bin\Debug\net6.0\DemoRef.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\bin\Debug\net6.0\DemoRef.pdb
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\DemoRef.csproj.AssemblyReference.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\DemoRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\DemoRef.AssemblyInfoInputs.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\DemoRef.AssemblyInfo.cs
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\DemoRef.csproj.CoreCompileInputs.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\DemoRef.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\refint\DemoRef.dll
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\DemoRef.pdb
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\DemoRef.genruntimeconfig.cache
+C:\Curso DIO\Repositorios\DioDesafioGithub\Codigos\DemoRef\obj\Debug\net6.0\ref\DemoRef.dll

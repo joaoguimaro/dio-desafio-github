@@ -1,0 +1,5 @@
+*Comandos Básicos*
+
++ dotnet -- help: mostra comandos e algumas "dicas" para execução
++ dotnet --version: mostra a versão instalada do dotnet
++ 
