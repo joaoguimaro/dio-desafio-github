@@ -1,0 +1,15 @@
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\bin\Debug\net6.0\Desafio1.exe
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\bin\Debug\net6.0\Desafio1.deps.json
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\bin\Debug\net6.0\Desafio1.runtimeconfig.json
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\bin\Debug\net6.0\Desafio1.dll
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\bin\Debug\net6.0\Desafio1.pdb
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\Desafio1.csproj.AssemblyReference.cache
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\Desafio1.AssemblyInfoInputs.cache
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\Desafio1.AssemblyInfo.cs
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\Desafio1.csproj.CoreCompileInputs.cache
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\Desafio1.dll
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\refint\Desafio1.dll
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\Desafio1.pdb
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\Desafio1.genruntimeconfig.cache
+C:\cursodio\repositorios\diodesafiogithub\codigos\desafios_iniciais\desafio1\obj\Debug\net6.0\ref\Desafio1.dll

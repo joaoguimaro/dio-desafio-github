@@ -1,0 +1,15 @@
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\bin\Debug\net6.0\Dotnet_poo.exe
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\bin\Debug\net6.0\Dotnet_poo.deps.json
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\bin\Debug\net6.0\Dotnet_poo.runtimeconfig.json
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\bin\Debug\net6.0\Dotnet_poo.dll
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\bin\Debug\net6.0\Dotnet_poo.pdb
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\Dotnet_poo.csproj.AssemblyReference.cache
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\Dotnet_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\Dotnet_poo.AssemblyInfoInputs.cache
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\Dotnet_poo.AssemblyInfo.cs
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\Dotnet_poo.csproj.CoreCompileInputs.cache
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\Dotnet_poo.dll
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\refint\Dotnet_poo.dll
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\Dotnet_poo.pdb
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\Dotnet_poo.genruntimeconfig.cache
+C:\cursodio\repositorios\diodesafiogithub\codigos\dotnet_poo\obj\Debug\net6.0\ref\Dotnet_poo.dll
