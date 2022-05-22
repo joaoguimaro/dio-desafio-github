@@ -1,0 +1,15 @@
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\bin\Debug\net6.0\Colecoes_Genericas.exe
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\bin\Debug\net6.0\Colecoes_Genericas.deps.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\bin\Debug\net6.0\Colecoes_Genericas.runtimeconfig.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\bin\Debug\net6.0\Colecoes_Genericas.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\bin\Debug\net6.0\Colecoes_Genericas.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\Colecoes_Genericas.csproj.AssemblyReference.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\Colecoes_Genericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\Colecoes_Genericas.AssemblyInfoInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\Colecoes_Genericas.AssemblyInfo.cs
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\Colecoes_Genericas.csproj.CoreCompileInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\Colecoes_Genericas.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\refint\Colecoes_Genericas.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\Colecoes_Genericas.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\Colecoes_Genericas.genruntimeconfig.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Colecoes_Genericas\obj\Debug\net6.0\ref\Colecoes_Genericas.dll

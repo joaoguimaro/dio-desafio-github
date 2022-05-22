@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cursodio\\repositorios\\diodesafiogithub\\codigos\\dotnet_poo\\Dotnet_poo.csproj": {}
+    "C:\\CursoDIO\\Repositorios\\DioDesafioGithub\\Codigos\\Dotnet_poo\\Dotnet_poo.csproj": {}
   },
   "projects": {
-    "C:\\cursodio\\repositorios\\diodesafiogithub\\codigos\\dotnet_poo\\Dotnet_poo.csproj": {
+    "C:\\CursoDIO\\Repositorios\\DioDesafioGithub\\Codigos\\Dotnet_poo\\Dotnet_poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cursodio\\repositorios\\diodesafiogithub\\codigos\\dotnet_poo\\Dotnet_poo.csproj",
+        "projectUniqueName": "C:\\CursoDIO\\Repositorios\\DioDesafioGithub\\Codigos\\Dotnet_poo\\Dotnet_poo.csproj",
         "projectName": "Dotnet_poo",
-        "projectPath": "C:\\cursodio\\repositorios\\diodesafiogithub\\codigos\\dotnet_poo\\Dotnet_poo.csproj",
+        "projectPath": "C:\\CursoDIO\\Repositorios\\DioDesafioGithub\\Codigos\\Dotnet_poo\\Dotnet_poo.csproj",
         "packagesPath": "C:\\Users\\jprgu\\.nuget\\packages\\",
-        "outputPath": "C:\\cursodio\\repositorios\\diodesafiogithub\\codigos\\dotnet_poo\\obj\\",
+        "outputPath": "C:\\CursoDIO\\Repositorios\\DioDesafioGithub\\Codigos\\Dotnet_poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jprgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
