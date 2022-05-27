@@ -1,0 +1,15 @@
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.exe
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.deps.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.runtimeconfig.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.csproj.AssemblyReference.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.AssemblyInfoInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.AssemblyInfo.cs
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.csproj.CoreCompileInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\refint\ConsoleDivisionExceptionApp.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.genruntimeconfig.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ref\ConsoleDivisionExceptionApp.dll

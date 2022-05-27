@@ -1,0 +1,15 @@
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\bin\Debug\net6.0\Mentoria_GFT.exe
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\bin\Debug\net6.0\Mentoria_GFT.deps.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\bin\Debug\net6.0\Mentoria_GFT.runtimeconfig.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\bin\Debug\net6.0\Mentoria_GFT.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\bin\Debug\net6.0\Mentoria_GFT.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\Mentoria_GFT.csproj.AssemblyReference.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\Mentoria_GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\Mentoria_GFT.AssemblyInfoInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\Mentoria_GFT.AssemblyInfo.cs
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\Mentoria_GFT.csproj.CoreCompileInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\Mentoria_GFT.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\refint\Mentoria_GFT.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\Mentoria_GFT.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\Mentoria_GFT.genruntimeconfig.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\Mentoria_GFT\obj\Debug\net6.0\ref\Mentoria_GFT.dll

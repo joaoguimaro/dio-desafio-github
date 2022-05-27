@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mentoria_GFT/1.0.0": {
+        "runtime": {
+          "Mentoria_GFT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mentoria_GFT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

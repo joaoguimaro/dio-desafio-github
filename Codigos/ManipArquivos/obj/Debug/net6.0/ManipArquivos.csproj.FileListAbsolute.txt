@@ -1,0 +1,15 @@
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\bin\Debug\net6.0\ManipArquivos.exe
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\bin\Debug\net6.0\ManipArquivos.deps.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\bin\Debug\net6.0\ManipArquivos.runtimeconfig.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\bin\Debug\net6.0\ManipArquivos.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\bin\Debug\net6.0\ManipArquivos.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ManipArquivos.csproj.AssemblyReference.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ManipArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ManipArquivos.AssemblyInfoInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ManipArquivos.AssemblyInfo.cs
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ManipArquivos.csproj.CoreCompileInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ManipArquivos.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\refint\ManipArquivos.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ManipArquivos.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ManipArquivos.genruntimeconfig.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ManipArquivos\obj\Debug\net6.0\ref\ManipArquivos.dll

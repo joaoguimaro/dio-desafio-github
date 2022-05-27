@@ -1,0 +1,15 @@
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\bin\Debug\net6.0\ExempInterface.exe
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\bin\Debug\net6.0\ExempInterface.deps.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\bin\Debug\net6.0\ExempInterface.runtimeconfig.json
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\bin\Debug\net6.0\ExempInterface.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\bin\Debug\net6.0\ExempInterface.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ExempInterface.csproj.AssemblyReference.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ExempInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ExempInterface.AssemblyInfoInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ExempInterface.AssemblyInfo.cs
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ExempInterface.csproj.CoreCompileInputs.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ExempInterface.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\refint\ExempInterface.dll
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ExempInterface.pdb
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ExempInterface.genruntimeconfig.cache
+C:\CursoDIO\Repositorios\DioDesafioGithub\Codigos\ExempInterface\obj\Debug\net6.0\ref\ExempInterface.dll
